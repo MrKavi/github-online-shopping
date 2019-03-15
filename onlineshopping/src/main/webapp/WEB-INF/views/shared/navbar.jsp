@@ -14,12 +14,14 @@
           <li class="nav-item">
             <a class="nav-link" href="${contextRoot}/about">About</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="${contextRoot}/list product">View Product</a>
-          </li>
+         
           <li class="nav-item">
             <a class="nav-link" href="${contextRoot}/contact">Contact</a>
           </li>
+           <li class="nav-item">
+            <a class="nav-link" href="${contextRoot}/show/all/products">View Product</a>
+          </li>
+          
         </ul>
       </div>
     </div>

@@ -13,7 +13,7 @@
    http://www.springframework.org/schema/mvc/spring-mvc.xsd
    ">
 <contex:component-scan base-package="net.kavi.onlineshopping.controller"/>
-
+<contex:component-scan base-package="net.kavi.shoppingbackend.daoimpl"/>
 
 
 <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">

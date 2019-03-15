@@ -19,6 +19,7 @@
   <groupId>net.kavi</groupId>
   <artifactId>shoppingbackend</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
 </dependency>
 
 		<!-- java ee api -->
